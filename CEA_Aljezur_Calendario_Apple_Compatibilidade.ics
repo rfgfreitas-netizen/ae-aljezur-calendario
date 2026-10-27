@@ -1,0 +1,328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CEA Aljezur//Calendario Apple//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CEA Aljezur - Plano 90 dias
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-00@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261029T093000Z
+DTEND:20261029T103000Z
+SUMMARY:CEA | Rever dossier institucional
+DESCRIPTION:Validar apresentação e resumo executivo com designação CE
+ A Aljezur\; incluir Biblioteca Viva no terreno\, sala de leitura e adapt
+ ação climática. Não divulgar a marca interna.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-01@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261030T100000Z
+DTEND:20261030T110000Z
+SUMMARY:CEA | Enviar contacto exploratório à Câmara
+DESCRIPTION:Enviar email à Câmara Municipal de Aljezur e solicitar reun
+ ião com Ambiente\, Educação e Urbanismo. Anexar apresentação e resu
+ mo executivo. Data proposta\, não reunião confirmada.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-02@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261103T110000Z
+DTEND:20261103T120000Z
+SUMMARY:CEA | Preparar dossier urbanístico e PIP
+DESCRIPTION:Reunir localização\, plantas\, acesso\, áreas\, condiciona
+ ntes RAN\, fases do projeto e perguntas sobre formação\, viveiro\, bib
+ lioteca/sala de leitura\, sanitários e eventual alojamento.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-03@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261105T160000Z
+DTEND:20261105T164500Z
+SUMMARY:CEA | Conversa exploratória com André
+DESCRIPTION:Sondar disponibilidade para colaboração em workshops\, bioc
+ onstrução e recursos partilhados\; sem compromisso societário. Contac
+ to a marcar\, não confirmado.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-04@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261110T100000Z
+DTEND:20261110T110000Z
+SUMMARY:CEA | Seguimento do pedido à Câmara
+DESCRIPTION:Confirmar receção\, propor datas para reunião e identifica
+ r interlocutores. Caso haja resposta\, adaptar o passo seguinte.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-05@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261113T093000Z
+DTEND:20261113T110000Z
+SUMMARY:CEA | Inventário da Biblioteca Viva
+DESCRIPTION:Listar livros já disponíveis\, estimar estantes e lugares d
+ e leitura\, catálogo digital\, acesso controlado e supervisão partilha
+ da. Avaliar requisitos de acessibilidade e segurança.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-06@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261118T100000Z
+DTEND:20261118T120000Z
+SUMMARY:CEA | Janela proposta para reunião municipal
+DESCRIPTION:Bloco reservado para reunião com a Câmara\, sujeito a confi
+ rmação. Prioridades: interesse público\, PIP\, RAN\, formação\, bib
+ lioteca no terreno e apoio institucional.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-07@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261124T100000Z
+DTEND:20261124T113000Z
+SUMMARY:CEA | Definir fase 1 e orçamento mínimo
+DESCRIPTION:Escolher arranque de baixo investimento: viveiro\, demonstra
+ ções e formação condicionadas às autorizações. Separar infraestru
+ tura física e atividades sem construção.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-08@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261127T110000Z
+DTEND:20261127T120000Z
+SUMMARY:CEA | Modelo de colaboração com André
+DESCRIPTION:Preparar acordo-piloto simples por atividade: papéis\, segur
+ os\, materiais\, despesas\, receitas\, cancelamentos e propriedade dos c
+ onteúdos.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-09@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261203T100000Z
+DTEND:20261203T113000Z
+SUMMARY:CEA | Mapear apoios e parceiros
+DESCRIPTION:Verificar avisos de financiamento abertos e elegibilidade\; C
+ âmara\, Vicentina/LEADER\, turismo\, formação\, educação e mediatec
+ a. Não pressupor candidaturas aprovadas.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-10@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261209T100000Z
+DTEND:20261209T110000Z
+SUMMARY:CEA | Revisão do enquadramento urbanístico
+DESCRIPTION:Registar resposta municipal e próximos passos do PIP. Se nã
+ o houver resposta\, insistir por via institucional e documentar pendênc
+ ias.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-11@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261215T093000Z
+DTEND:20261215T110000Z
+SUMMARY:CEA | Desenhar workshop-piloto
+DESCRIPTION:Selecionar tema (água\, solos ou bioconstrução)\, público
+ \, programa\, formador\, custo\, seguros\, logística e autorização ne
+ cessária. Sem anunciar datas ao público antes da validação.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-12@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261218T100000Z
+DTEND:20261218T110000Z
+SUMMARY:CEA | Plano escolar e hortas intergeracionais
+DESCRIPTION:Esboçar piloto com uma escola\, agricultores/seniores e duas
+  visitas anuais. Identificar parceiros e responsabilidades sem assumir c
+ ompromissos.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-13@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261222T110000Z
+DTEND:20261222T120000Z
+SUMMARY:CEA | Revisão de fim de ano
+DESCRIPTION:Avaliar contactos\, respostas da Câmara\, situação do PIP\
+ , custos e parceria André. Decidir o que manter\, adiar ou retirar da f
+ ase 1.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-14@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20270107T100000Z
+DTEND:20270107T113000Z
+SUMMARY:CEA | Plano de operação Biblioteca Viva
+DESCRIPTION:Definir catalogação\, doações\, consulta local\, controlo
+  eletrónico\, proteção de dados\, horários\, supervisão e integraç
+ ão com mediateca digital.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-15@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20270112T100000Z
+DTEND:20270112T113000Z
+SUMMARY:CEA | Orçamento e plano de financiamento 2027
+DESCRIPTION:Atualizar investimento por fases\, custos fixos\, receitas de
+  formação e viveiro\, necessidades de apoios e candidaturas elegíveis
+ .
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-16@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20270119T100000Z
+DTEND:20270119T110000Z
+SUMMARY:CEA | Decisão sobre parceria-piloto André
+DESCRIPTION:Decidir se avançar com workshop conjunto de 90 dias\, colabo
+ ração pontual ou adiar. Não ceder controlo do projeto por antecipaç
+ ão.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-20261027-17@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20270126T100000Z
+DTEND:20270126T120000Z
+SUMMARY:CEA | Balanço trimestral e próximos 90 dias
+DESCRIPTION:Consolidar decisões\, pendências urbanísticas\, contactos\
+ , orçamento\, biblioteca e formação\; estabelecer metas para fevereir
+ o-abril 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lembrete CEA
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cea-aljezur-revisao-semanal-2026@cea-aljezur.example
+DTSTAMP:20261027T150000Z
+DTSTART:20261102T090000Z
+DTEND:20261102T092000Z
+RRULE:FREQ=WEEKLY;COUNT=13;BYDAY=MO
+SUMMARY:CEA | Revisão semanal de prioridades
+DESCRIPTION:Verificar respostas da Câmara, PIP, contacto André, bibliot
+ eca, orçamento e próxima ação concreta. Ajustar calendário a respos
+ tas reais.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revisão semanal CEA
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
